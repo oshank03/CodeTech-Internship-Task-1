@@ -14,6 +14,8 @@
 
 **Project: - EXPLORATORY DATA ANALYSIS (EDA)**
 
+Traditional health monitoring systems often categorize patient health status using rigid, predefined thresholds that may not capture the nuanced variations across a diverse patient population. This can lead to oversimplified assessments and potentially overlook subtle yet critical patterns in health data. The challenge is to develop a more dynamic and responsive approach that utilizes unsupervised learning to identify natural groupings within health data, facilitating personalized and precise health management.
+
 **Objective**
 
 The objective of this project is to perform Eploratory Data Analysis (EDA) on the data set containing population data of different age groups. The aim of this project is to track and evaluate the health status of individuals or populations over time. It contains a range of activities from real-time physiological data collection (like heart rate, blood pressure, and temperature) to the analysis of more complex health records (including patient history, lifestyle choices, and genetic information).
