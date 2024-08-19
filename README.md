@@ -1,8 +1,13 @@
 **Name:-** Oshank Agrawal
+
 **Company: -** CODETECH IT SOLUTION
+
 **ID: -** CT04DS5719
+
 **Domain:-** DATA SCIENCE
+
 **Duration: -** 1 MONTH FROM 1st AUGUST to 1st SEPTEMBER
+
 **Mentor: -** NEELA SANTOSH KUMAR
 
 # Overview of the Project
