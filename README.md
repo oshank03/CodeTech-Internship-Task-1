@@ -41,6 +41,13 @@ The objective of this project is to perform Eploratory Data Analysis (EDA) on th
 * **Identified Clusters:** Distinct patient groups based on health metrics, each with unique characteristics that provide insight into their specific health needs.
 * **Personalized Health Insights:** Enhanced understanding of patient health requirements and risks, enabling tailored intervention strategies.
 * **Improved Health Monitoring:** Recommendations for targeted monitoring and intervention strategies that cater to the specific needs of each cluster, leading to more effective health management and better patient outcomes.
+we will examine summary statics and the distribution of the numerical health metrics (Age, HeartRate, RespiratoryRate, BodyTemperature, and OxygenSaturation).
+It will help us understand the typical values and the spread of the data. I'll also include some visulization to better understand these distributions.
+WE have a look at the gender distribution in the data and the cor-relation between the numerical columns in the dataset.
+We have a look at the heart rate by activity level.
+We have a look at the distribution of blood pressure levels and some health metrics by gender.
+We analyze heart rate and oxygen saturation by sleep quality and stress levels.
+We  analyze the respiratory rate and body temperature by activity levels.
 
 **Observation:**
 
